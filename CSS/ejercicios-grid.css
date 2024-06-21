@@ -1,0 +1,16 @@
+menu{
+    background-color: rgb(231, 38, 38);
+    height: 100px;
+}
+header{
+    background-color: rgb(48, 46, 46);
+    height: 100px;
+}
+#hero{
+    background-color: rgb(25, 63, 213);
+    height: 100px;
+}
+main{
+    background-color: rgb(1, 90, 153);
+    height: 100px;
+}
